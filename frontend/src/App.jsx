@@ -78,7 +78,7 @@ export default function App() {
       <div className="app__inner">
         <header className="app__header">
           <p className="app__eyebrow">Verificador · Fútbol</p>
-          <h1 className="app__title">Pegá la noticia.<br />Te decimos si es de fiar.</h1>
+          <h1 className="app__title">Pega la noticia.<br />Te decimos si es de fiar.</h1>
           <p className="app__subtitle">
             Fichajes, resultados, declaraciones y rumores. Cruzamos datos oficiales,
             credibilidad de la fuente y análisis de lenguaje para darte un veredicto
@@ -111,7 +111,7 @@ export default function App() {
           {mode === 'text' ? (
             <textarea
               className="form__textarea"
-              placeholder="Pegá acá el texto de la noticia o el tweet que querés verificar…"
+              placeholder="Pega aquí el texto de la noticia o el tweet que quieres verificar…"
               value={textValue}
               onChange={(e) => setTextValue(e.target.value)}
               aria-label="Texto de la noticia"
