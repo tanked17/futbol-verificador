@@ -16,7 +16,10 @@ app = FastAPI(title="Verificador de Noticias de Futbol")
 
 app.add_middleware(
     CORSMiddleware,
-    allow_origins=["*"],  # restringir a tu dominio de Vercel en produccion
+    allow_origins=[
+        "https://futbol-verificador.vercel.app",
+        "http://localhost:5173",  # para seguir probando en local
+    ],
     allow_methods=["*"],
     allow_headers=["*"],
 )
