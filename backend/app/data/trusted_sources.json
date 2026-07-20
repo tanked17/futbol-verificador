@@ -1,22 +1,40 @@
 {
   "alto": [
     "marca.com",
+    "as.com",
+    "mundodeportivo.com",
+    "sport.es",
+    "relevo.com",
     "espn.com",
     "espn.com.mx",
+    "bbc.com",
+    "skysports.com",
+    "theathletic.com",
+    "theguardian.com",
+    "gazzetta.it",
+    "lequipe.fr",
+    "kicker.de",
+    "globoesporte.globo.com",
+    "tycsports.com",
+    "ole.com.ar",
     "realmadrid.com",
     "fcbarcelona.com",
     "premierleague.com",
+    "laliga.com",
     "fifa.com",
     "uefa.com",
+    "conmebol.com",
     "fabrizioromano.com"
   ],
   "medio": [
     "goal.com",
-    "skysports.com",
-    "as.com",
-    "mundodeportivo.com",
-    "tycsports.com",
-    "ole.com.ar"
+    "90min.com",
+    "onefootball.com",
+    "record.com.mx",
+    "foxsports.com",
+    "cadenaser.com",
+    "cope.es",
+    "rtve.es"
   ],
   "bajo": []
 }
